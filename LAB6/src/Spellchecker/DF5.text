@@ -1,0 +1,11 @@
+When you are deciding when and if to use a data structure the first thing you should ask yourself is what do you need it
+to do and what kind of data you will be storing inside the collection. some of the key questions like will contain key/value pairs or values, Is Order important? will it contain
+duplicates?. If you can answer these questions then you will be well on your way to discovering what kind of Java
+Collection you should be using in your code.
+
+if you are interested in finding out more about the decision making process and how best to use it. check out the
+following link: http://www.sergiy.ca/guide-to-selecting-appropriate-map-collection-in-java/
+
+References:
+Zagniotov, A. (2009, August 14). Guide to Selecting Appropriate Map/Collection in Java. Http://Www.Sergiy.Ca/.
+http://www.sergiy.ca/guide-to-selecting-appropriate-map-collection-in-java/

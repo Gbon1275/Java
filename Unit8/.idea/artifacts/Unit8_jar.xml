@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Unit8:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Unit8_jar</output-path>
+    <root id="archive" name="Unit8.jar">
+      <element id="module-output" name="Unit8" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,19 @@
+Bug: Loop not Looping.
+
+The contains method a piece of dead code on line 60 where an else statement is returning false. this stops the loop
+on the first number and would only return "true" if val is the first answer. removed the else statement and now the code
+runs properly.
+
+Bug: Infinite loop in BubbleSort
+
+line 72 contains an if statement with the wrong counter being incremented. should be j++ instead of i++
+
+Bug: array position permanently set to 1
+
+line 91 what the array position indicator set permanently to position 1 instead of moving though the array, this is fixed
+by changing 1 to i the selection sort can move through the array and work properly.
+
+Bug: insertionSort not sorting.
+
+couple of incomplete statements on the last line where +1 was missing from the last line and and = missing from line 109.
+
